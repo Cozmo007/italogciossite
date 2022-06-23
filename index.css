@@ -1,0 +1,84 @@
+body {
+    background-color: #00001B;
+}
+.contatos {
+    background-color: #00001B;
+    border: none;
+    color: white;
+    font-family: Verdana;
+    font-size: 16px;
+}
+.home {
+    background-color: #00001B;
+    border: none;
+    color: white;
+    font-family: Verdana;
+    font-size: 16px;
+}
+
+img {
+    border-radius: 5%;
+}
+
+h3 {
+    text-align: left;
+    color: white;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.dc {
+	transition: 0.15s;
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.dc:hover {
+    font-size: 35px;
+}
+.tele {
+    transition: 0.15s;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 20px;
+    text-decoration: none;;
+}
+.tele:hover {
+    font-size: 35;
+}
+.insta {
+    text-decoration: none;
+    transition: 0.15s;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.insta:hover{
+    font-size: 25px;
+}
+h4 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.ytb {
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.imagem {
+    display: inline-block;
+    vertical-align: top;
+}
+.texto {
+    display: inline-block;
+}

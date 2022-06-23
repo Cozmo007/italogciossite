@@ -6,8 +6,8 @@
 </head>
 <body>
 <hr color="blue">
-<button class="home" type="button">Home</button>
-<button class="contatos" type="button">Contatos</button>
+<button class="home" onclick="hom()" type="button">Home</button>
+<button class="contatos" onclick="cont()" type="button">Contatos</button>
 <hr color="blue">
 <h1>Principais contatos:</h1>
 <div>
@@ -16,4 +16,13 @@
 <h2><img src="insta.png" width="26"><a class="insta" href="https://instagram.com/italogcios">&nbsp; Instagram</a></h2>
 </div>
 <h4>Respeite as <strong><font color="red">REGRAS</font></strong>!</h4>
+<script>
+function home(){
+     open("https://italogc-ios.netlify.app/")
+}
+function cont(){
+     open("https://italogc-ios.netlify.app/contatos.html")
+}
+</script>
 </body>
+</html>
